@@ -15,7 +15,7 @@ No installation is required since Colab runs in the cloud and provides an isolat
 Access the Notebook
 Open the notebook: Use this link to access the pre-configured Colab notebook: Student Loan Recommendation System Notebook
 
-Save a copy to your drive: Click on File > Save a copy in Drive… to create a personal copy of the notebook.
+Save a copy to your drive: Click on File > Save a copy in Drive… to create a personal copy of student_loans_with_deep_learning.ipynb.
 
 Using the Notebook
 Follow the step-by-step instructions within the notebook to input your data and receive recommendations.
